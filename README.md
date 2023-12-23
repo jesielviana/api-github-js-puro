@@ -1,4 +1,4 @@
-#Consumindo a API do GitHub usando JavaScript puro
+# Consumindo a API do GitHub usando JavaScript puro
 
 Este projeto demonstra como interagir com a API do GitHub usando JavaScript puro.
 
